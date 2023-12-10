@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+Disallow: /Mr_Khan/*
+Disallow: /RZ/*
+Disallow: /index.php

@@ -1,0 +1,33 @@
+.inp {
+    border:none;
+	border-width: 0 0 5px;
+    border-bottom: 2px solid #188c7c;
+    padding: 5px 30px;
+    outline: none;
+	text-align: center; 
+ }
+
+[placeholder]:focus::-webkit-input-placeholder {
+    transition: text-indent 0.4s 0.4s ease; 
+    text-indent: -100%;
+    opacity: 1;
+ }
+ 
+ input {
+  border: 0;
+  outline: 0;
+  border-bottom: 2px solid #188c7c;
+  font-size: 1.4rem;
+  color: #188c7c;
+  text-align: center;       
+}
+
+
+option {
+  border: 0;
+  outline: 0;
+  border-bottom: 2px solid #188c7c;
+  font-size: 1.4rem;
+  color: #188c7c;
+        
+}

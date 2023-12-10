@@ -1,0 +1,29 @@
+.inp {
+    border:none;
+	border-width: 0 0 5px;
+    border-bottom: 2px solid #188c7c;
+    padding: 5px 30px;
+    outline: none;
+ }
+
+
+ 
+ input {
+  border: 0;
+  outline: 0;
+  border-bottom: 2px solid #188c7c;
+  font-size: 1.4rem;
+  color: #188c7c;
+  line-height: 2;
+  text-align: center;  
+}
+
+
+option {
+  border: 0;
+  outline: 0;
+  border-bottom: 2px solid #188c7c;
+  font-size: 1.4rem;
+  color: #188c7c;
+        
+}
